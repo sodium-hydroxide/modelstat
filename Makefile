@@ -1,4 +1,4 @@
-PACKAGE_NAME = mcnparse
+PACKAGE_NAME = modelstat
 VERSION := $(shell cat VERSION.txt)
 PYTHON = python3
 SRC_DIR = $(PACKAGE_NAME)

@@ -1,5 +1,5 @@
 services:
-  mcnparse_dev:
+  modelstat_dev:
     build: .
     volumes:
       - ./:/home/user/work/
